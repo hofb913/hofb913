@@ -1,7 +1,8 @@
 
 
 
-<p align="center">***An old dog learning new tricks***</p>
+<p align="center"><b><i>An old dog learning new tricks</i></b></p>
+
 # 👋 Introductions
 
 	Hi. 
